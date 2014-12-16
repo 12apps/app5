@@ -11,5 +11,5 @@
   "permissions": [
     "notifications"
   ],
-  "icons": { "16": "calculator-16.png", "128": "calculator-128.png" }
+  "icons": { "16": "ready-16.png", "128": "ready-128.png" }
 }
